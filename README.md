@@ -6,7 +6,7 @@ DATA ENGINEER
 
 Enthusiastic and results-driven data engineer with hands-on experience in Snowflake, Apache Airflow, and Databricks for building efficient data pipelines and workflows. Skilled in integrating cloud platforms and supporting end-to-end data solutions to enable advanced analytics, business intelligence, and machine learning. Eager to apply strong technical skills and a collaborative mindset to solve real-world data challenges and drive business value.
 
-* 🌍  I'm based in Jaipur,Rajasthan
+* 🌍  I'm from Jaipur,Rajasthan
 * ✉️  You can contact me at [nayanjain24003@gmail.com](mailto:nayanjain24003@gmail.com)
 * 🧠  I'm currently learning Google Cloud Platform
 * 👥  I'm looking to collaborate on END-TO-END DATA ENGINEERING PROJECTS
